@@ -14,5 +14,6 @@ Daftar Soal:
 
 ## Instruksi Pengerjaan
 
-1.  Buka dan edit file `jawaban_mahasiswa.py`.
-2.  **PENTING:** Jangan mengubah apapun selain push jawaban dari file `jawaban_mahasiswa.py`.
+1.  Lihat soal pada file test_password.py
+2.  Buka dan edit file `jawaban_mahasiswa.py`.
+3.  **PENTING:** Jangan mengubah apapun selain push jawaban dari file `jawaban_mahasiswa.py`.
